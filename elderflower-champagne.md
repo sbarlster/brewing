@@ -23,21 +23,28 @@ of the barrel.
 * 1 packet of champagne yeast
 * 30 elderflower heads - shaken
 
-Warm close to boiling, 7 litres of water, add 2 cool litres to barrel first, then the hot water, then add the 3kg of
-sugar and stir until disolved, then add the lemon juice and lemon slices, finally the elderflower heads and stir.
-Prepare the yeast in 50ml of warm water for 10mins, then add to the mix and stir.
+Warm (close to boiling - maybe 70 degrees), 7 litres of water. Add 2 cold litres of water to barrel first, then the hot
+water, then add the 3kg of sugar and stir until disolved, then add the lemon juice and lemon slices, finally the
+elderflower heads and stir. Prepare the yeast in 50ml of warm water for 10mins, then add to the mix and stir.
 
-Cap the barrel with lid and airlock (filled with steriliser). Leave overnight to start the fermentation.
+Cap the barrel with lid and airlock (filled with steriliser). Leave overnight to start the fermentation. Watch the
+airlock bubble for 5-7 days. If good it should bubble at a rate of one bubble every 2 seconds, then slow to every
+5 seconds and finally when done to every 7+ seconds.
 
-Champagne corks and wire cages...
+Champagne corks, wire cages and foils...
 * [plastic reusable corks](https://www.colchesterhomebrew.co.uk/colchesterhomebrewshop/prod_938976-Champagne-Style-Corks-12s.html)
 * [wire cages](https://www.colchesterhomebrew.co.uk/colchesterhomebrewshop/prod_756141-Champagne-Cages-with-caps-12s.html)
+* [foils](https://www.thebottlejarstore.co.uk/product/champagne-foils-silver/)
 
-After around 3 to 5 days the fermented but still live wine is added to clean and sterilised bottles, with half a spoon
+After around 3 to 5 days the fermented but still live wine is added to clean and sterilised bottles, with half a teaspoon
 of sugar. The bottles are left for their secondary fermentation in the bottles for a further week, during which time
 they pressurise (CO2 is absorbed into the wine creating the fizz) and the sediment drops into the hollow corks. The
-theory is that we now freeze the tops (top 5cm) of the bottles, then remove the hollow corks (with the sediment inside
-the hollow section), re-apply a new clean cork and attach the wire cage to the bottle and cork.
+theory is that we now freeze the neck (top 5cm) of the bottles, then remove the hollow corks (with the sediment inside
+the hollow section), the frozen neck keeping the wine in-situ, then re-apply a new clean cork and attach the wire cage
+to the bottle.
+
+Finally the bottles can be cleaned, foils applied and labels added. Hey-presto semi-professional looking elderflower
+champagne!
 
 > [!WARNING]
 > This might be the most important section of the brewing pages. And not following the cleaning and sterilising
