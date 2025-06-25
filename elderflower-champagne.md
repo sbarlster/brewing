@@ -9,7 +9,8 @@ scented and very lively wines!
 copses and other dark and colder area. But we had success. Two supermarket plastic bags of flowers were found.
 
 * Summer 2025 (June) - learning the lesson of 2024 we went a little earlier. And with more liquid. Planning to
-  fill around 30 bottles. Have moved to ex-fizzy wine glass bottles and invested in a 
+  fill around 30 bottles. Have moved to sparkling wine glass bottles and invested in a set of hollow plastic
+  stoppers, wire cages and foil tops.
 
 ## Recipes
 
